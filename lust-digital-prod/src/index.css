@@ -15,5 +15,8 @@
     --primary-gradient: linear-gradient(90deg, #0151ff 0%, #a5e1ff 100%);
     --secondary-background: #f7f9fb;
     --button-border: #c1c1c1;
+    --secondary-gradient: linear-gradient(90deg, #07ACFF 0%, #7927FF 100%);
+    --card-gradient: linear-gradient(180deg, #07ACFF 0%, #7927FF 100%);
+    --card-second-gradient: linear-gradient(180deg, #3D00A0 0%, #07ACFF 100%);
 }
 

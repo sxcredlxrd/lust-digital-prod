@@ -1,0 +1,33 @@
+.stages-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    font-family: var(--font-family);
+    padding: 50px 300px;
+    gap: 35px;
+}
+
+.back-left {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+.back-right {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+}
+
+.stages-heading {
+    font-size: 20px;
+}
+
+.stages-drops {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
